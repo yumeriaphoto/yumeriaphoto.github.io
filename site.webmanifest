@@ -1,0 +1,24 @@
+{
+  "name": "Yumeria's Travel Journal",
+  "short_name": "Yumeria",
+  "description": "Travel photos and short field notes from Yumeria's trips — Japan, Europe, and the places worth remembering, one print at a time.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4ead6",
+  "theme_color": "#c43b2a",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

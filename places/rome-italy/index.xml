@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Rome, Italy on Yumeria&#39;s Travel Journal</title>
-		<link>http://localhost:1313/places/rome-italy/</link>
+		<link>https://photolog.yumeria.dev/places/rome-italy/</link>
 		<description>Recent content in Rome, Italy on Yumeria&#39;s Travel Journal</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/places/rome-italy/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://photolog.yumeria.dev/places/rome-italy/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>All roads lead to Rome</title>
-				<link>http://localhost:1313/log/all-roads-lead-to-rome/</link>
+				<link>https://photolog.yumeria.dev/log/all-roads-lead-to-rome/</link>
 				<pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/log/all-roads-lead-to-rome/</guid>
+				<guid>https://photolog.yumeria.dev/log/all-roads-lead-to-rome/</guid>
 				<description></description>
 			</item>
 	</channel>

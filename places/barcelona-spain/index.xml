@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Barcelona, Spain on Yumeria&#39;s Travel Journal</title>
-		<link>http://localhost:1313/places/barcelona-spain/</link>
+		<link>https://photolog.yumeria.dev/places/barcelona-spain/</link>
 		<description>Recent content in Barcelona, Spain on Yumeria&#39;s Travel Journal</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/places/barcelona-spain/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://photolog.yumeria.dev/places/barcelona-spain/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Manga Barcelona 2025</title>
-				<link>http://localhost:1313/log/manga-barcelona-2025/</link>
+				<link>https://photolog.yumeria.dev/log/manga-barcelona-2025/</link>
 				<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/log/manga-barcelona-2025/</guid>
+				<guid>https://photolog.yumeria.dev/log/manga-barcelona-2025/</guid>
 				<description>&lt;p&gt;My first time at &lt;strong&gt;Manga Barcelona (edition 31)&lt;/strong&gt;, and it was a great event. &lt;strong&gt;Shinichiro Watanabe&lt;/strong&gt;, &lt;strong&gt;Akemi Takada&lt;/strong&gt;, &lt;strong&gt;Yoko Kanno (and the Seatbelts)&lt;/strong&gt;… and I still had time to explore a bit more of the city.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>La [S]agrada Família</title>
-				<link>http://localhost:1313/log/la-sagrada-fam%C3%ADlia/</link>
+				<link>https://photolog.yumeria.dev/log/la-sagrada-fam%C3%ADlia/</link>
 				<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/log/la-sagrada-fam%C3%ADlia/</guid>
+				<guid>https://photolog.yumeria.dev/log/la-sagrada-fam%C3%ADlia/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;Shameless confession time&lt;/strong&gt;: I didn&amp;rsquo;t visit Barcelona for the culture or the big buildings still under construction. Barcelona was the closest city to home hosting the &lt;strong&gt;NieR: Orchestra Concert 12024 [ the end of data ]&lt;/strong&gt; tour that year, and I could not miss it. No regrets. It was incredible!&lt;/p&gt;</description>
 			</item>
 	</channel>

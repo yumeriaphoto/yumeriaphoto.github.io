@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Vatican, Italy on Yumeria&#39;s Travel Journal</title>
-		<link>http://localhost:1313/places/vatican-italy/</link>
+		<link>https://photolog.yumeria.dev/places/vatican-italy/</link>
 		<description>Recent content in Vatican, Italy on Yumeria&#39;s Travel Journal</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/places/vatican-italy/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://photolog.yumeria.dev/places/vatican-italy/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>A state you can cross on foot</title>
-				<link>http://localhost:1313/log/a-state-you-can-cross-on-foot/</link>
+				<link>https://photolog.yumeria.dev/log/a-state-you-can-cross-on-foot/</link>
 				<pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/log/a-state-you-can-cross-on-foot/</guid>
+				<guid>https://photolog.yumeria.dev/log/a-state-you-can-cross-on-foot/</guid>
 				<description></description>
 			</item>
 	</channel>
