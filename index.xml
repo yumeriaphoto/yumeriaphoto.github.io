@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Yumeria&#39;s Travel Journal</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Yumeria&#39;s Travel Journal</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Yumeria&amp;rsquo;s Travel Journal&lt;/strong&gt; is my little photolog.&lt;/p&gt;&#xA;&lt;p&gt;Just a small page where I put my photos.&lt;/p&gt;&#xA;&lt;p&gt;The photos I can come back to whenever I want, long after the trip is over.&lt;/p&gt;&#xA;&lt;p&gt;A few pictures, a few words, up whenever I felt like it.&lt;/p&gt;&#xA;&lt;p&gt;No rush, no feed to keep up with.&lt;/p&gt;&#xA;&lt;p&gt;Just nice places and the days I don&amp;rsquo;t want to forget.&lt;/p&gt;&#xA;&lt;p&gt;It doesn&amp;rsquo;t have everything, just like how it used to be.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Manga Barcelona 2025</title>
+				<link>http://localhost:1313/log/manga-barcelona-2025/</link>
+				<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/log/manga-barcelona-2025/</guid>
+				<description>&lt;p&gt;My first time at &lt;strong&gt;Manga Barcelona (edition 31)&lt;/strong&gt;, and it was a great event. &lt;strong&gt;Shinichiro Watanabe&lt;/strong&gt;, &lt;strong&gt;Akemi Takada&lt;/strong&gt;, &lt;strong&gt;Yoko Kanno (and the Seatbelts)&lt;/strong&gt;… and I still had time to explore a bit more of the city.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>O Museu do [O]riente</title>
+				<link>http://localhost:1313/log/o-museu-do-oriente/</link>
+				<pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/log/o-museu-do-oriente/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Shameless confession time 2&lt;/strong&gt;: I live in Portugal, but that was only my second time in the capital. And once again, it was because of an event from the NieR franchise. This time, it was the &lt;strong&gt;NieR: Piano Solo Concert Journeys 12025&lt;/strong&gt;. No regrets. It was incredible again!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>La [S]agrada Família</title>
+				<link>http://localhost:1313/log/la-sagrada-fam%C3%ADlia/</link>
+				<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/log/la-sagrada-fam%C3%ADlia/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Shameless confession time&lt;/strong&gt;: I didn&amp;rsquo;t visit Barcelona for the culture or the big buildings still under construction. Barcelona was the closest city to home hosting the &lt;strong&gt;NieR: Orchestra Concert 12024 [ the end of data ]&lt;/strong&gt; tour that year, and I could not miss it. No regrets. It was incredible!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A state you can cross on foot</title>
+				<link>http://localhost:1313/log/a-state-you-can-cross-on-foot/</link>
+				<pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/log/a-state-you-can-cross-on-foot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>All roads lead to Rome</title>
+				<link>http://localhost:1313/log/all-roads-lead-to-rome/</link>
+				<pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/log/all-roads-lead-to-rome/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A new year in Tokyo</title>
+				<link>http://localhost:1313/log/a-new-year-in-tokyo/</link>
+				<pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/log/a-new-year-in-tokyo/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
